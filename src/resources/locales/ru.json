@@ -176,6 +176,7 @@
             "addExtract": "Добавить и извлечь",
             "goBuyBook": "Купить эту книгу",
             "goLoanBook": "Брать эту книгу",
+            "goRevokeLoanBook": "",
             "goSubBook": "Подписаться"
         },
         "network": {
@@ -250,6 +251,8 @@
         "navigation": {
             "backHomeTitle": "назад к книжной полке",
             "bookmarkTitle": "закладка",
+            "currentPage": "",
+            "currentPageTotal": "",
             "detachWindowTitle": "показать окно библиотеки / книжной полки",
             "fullscreenTitle": "открыть полноэкранный режим",
             "goTo": "Перейти на",
@@ -259,6 +262,7 @@
             "infoTitle": "информация",
             "magnifyingGlassButton": "искать в книге",
             "openTableOfContentsTitle": "навигация",
+            "pdfscalemode": "",
             "quitFullscreenTitle": "выйти из полноэкранного режима",
             "readBookTitle": "начать читать книгу",
             "settingsTitle": "настройки"

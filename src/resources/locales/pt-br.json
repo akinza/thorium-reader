@@ -176,6 +176,7 @@
             "addExtract": "Importar o excerto",
             "goBuyBook": "Comprar este livro",
             "goLoanBook": "Emprestar este livro",
+            "goRevokeLoanBook": "",
             "goSubBook": "Subscrever"
         },
         "network": {
